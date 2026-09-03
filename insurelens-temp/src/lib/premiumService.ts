@@ -93,7 +93,7 @@ export function calculateFamilyPremium(members: FamilyMember[]): number {
 export const DEFAULT_FAMILY_MEMBERS: FamilyMember[] = [
   {
     id: 'fam-1',
-    name: 'Hari (Self)',
+    name: 'Jack (Self)',
     relationship: 'Self',
     age: 28,
     dateOfBirth: '1998-05-12',

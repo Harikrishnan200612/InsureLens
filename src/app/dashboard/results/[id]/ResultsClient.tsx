@@ -19,7 +19,7 @@ export default function ResultsClient() {
   const claimId = (params?.id as string) || 'CLM-2026-001';
 
   const [patientInfo, setPatientInfo] = useState({
-    name: 'Hari (Self)',
+    name: 'Jack (Self)',
     relationship: 'Self',
     age: 28,
     treatment: 'Knee Replacement Surgery',

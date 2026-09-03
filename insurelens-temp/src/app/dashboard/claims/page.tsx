@@ -22,7 +22,7 @@ interface ClaimHistoryRow {
 const CLAIMS: ClaimHistoryRow[] = [
   {
     id: 'CLM-2026-001',
-    patient: 'Hari',
+    patient: 'Jack',
     relationship: 'Self',
     age: 28,
     hospital: 'ABC Hospital',

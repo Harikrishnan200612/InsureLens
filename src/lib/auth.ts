@@ -9,7 +9,7 @@ const AUTH_COOKIE = 'insurelens_auth_token';
 export const DEFAULT_USER: UserProfile = {
   id: 'usr_default_01',
   email: 'user@insurelens.ai',
-  fullName: 'Hari Krishna',
+  fullName: 'Jack Miller',
   dateOfBirth: '1998-05-12',
   gender: 'Male',
   phoneNumber: '+91 98765 43210',

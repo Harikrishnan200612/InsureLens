@@ -121,7 +121,7 @@ export default function WhyClient() {
   const [patientInfo, setPatientInfo] = useState({
     treatment: 'Knee Replacement Surgery',
     hospital: 'Apollo Hospitals',
-    name: 'Hari',
+    name: 'Jack',
     billAmount: 400000,
   });
 
